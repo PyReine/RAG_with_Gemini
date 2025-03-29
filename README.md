@@ -15,4 +15,15 @@ Before setting up the project, ensure you have the following installed:
 - pip 
 - Required Python libraries (listed in `requirements.txt`)
 
+## Troubleshooting
+Issue: Model not responding
+       Ensure the API key is valid
+       Check if dependencies are installed correctly
+
+Issue: Slow query responses
+       Optimize vector store indexing
+       Increase system resources if necessary
+## License
+This project is licensed under the MIT License. 
+
 
